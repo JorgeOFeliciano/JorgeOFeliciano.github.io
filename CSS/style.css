@@ -115,7 +115,6 @@ header nav ul li a {
 
 .MiddleTitle nav {
   margin-top: 5px;
-  text-align: right;
   display: inline-block;
 }
 
@@ -127,7 +126,7 @@ header nav ul li a {
 
 .MiddleTitle nav ul li {
   display: inline;
-  margin-right: 20px;
+  margin-right: 5px;
 }
 
 .MiddleTitle nav ul li a {
